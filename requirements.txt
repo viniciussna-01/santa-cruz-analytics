@@ -1,0 +1,9 @@
+# Santa Cruz Data Analytics — dependências (todas gratuitas, sem chave de API)
+curl_cffi>=0.7.0      # HTTP com fingerprint de navegador (necessário p/ Sofascore; requests puro dá 403)
+pandas>=2.2.0
+numpy>=1.26.0
+streamlit>=1.40.0
+plotly>=5.22.0
+kaleido>=0.2.1         # exportar gráficos Plotly como PNG (cards para LinkedIn)
+python-dotenv>=1.0.0  # leitura opcional de .env
+pytest>=8.0.0         # testes

@@ -1,0 +1,1246 @@
+{
+ "events": [
+  {
+   "eventState": {},
+   "tournament": {
+    "name": "Brasileirão Série C, Group B",
+    "slug": "brasileirao-serie-c-group-b",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "uniqueTournament": {
+     "name": "Brasileirão Série C",
+     "slug": "brasileirao-serie-c",
+     "primaryColorHex": "#013027",
+     "secondaryColorHex": "#c5be02",
+     "category": {
+      "name": "Brazil",
+      "slug": "brazil",
+      "sport": {
+       "name": "Football",
+       "slug": "football",
+       "id": 1
+      },
+      "priority": 0,
+      "country": {
+       "alpha2": "BR",
+       "alpha3": "BRA",
+       "name": "Brazil",
+       "slug": "brazil"
+      },
+      "id": 13,
+      "flag": "brazil",
+      "alpha2": "BR",
+      "fieldTranslations": {
+       "nameTranslation": {
+        "ar": "البرازيل",
+        "ru": "Бразилия"
+       },
+       "shortNameTranslation": {}
+      }
+     },
+     "userCount": 20910,
+     "hasPerformanceGraphFeature": false,
+     "country": {},
+     "id": 1281,
+     "hasEventPlayerStatistics": false,
+     "displayInverseHomeAwayTeams": false,
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "دوري البرازيل الدرجة الثالثة",
+       "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+       "hi": "ब्रासीलरियो सीरी सी",
+       "ru": "Бразилейрао Серия C"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "priority": 0,
+    "isGroup": true,
+    "groupName": "Group B",
+    "groupSign": "B",
+    "isLive": false,
+    "id": 27214,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "الدوري البرازيلي، الدرجة C، المجموعة B",
+      "bn": "ব্রাসিলিরাও সেরি সি, গ্রুপ বি",
+      "hi": "ब्रासीलीराओ सीरी सी, ग्रुप बी",
+      "ru": "Бразилейрао Серия C, Группа B"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "season": {
+    "name": "Brasileiro Serie C 2026",
+    "year": "2026",
+    "editor": false,
+    "seasonCoverageInfo": {
+     "editorCoverageLevel": 1
+    },
+    "id": 90642
+   },
+   "roundInfo": {
+    "round": 1
+   },
+   "customId": "BOsWIu",
+   "status": {
+    "code": 0,
+    "description": "Not started",
+    "type": "notstarted"
+   },
+   "homeTeam": {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "shortName": "Santa Cruz",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 32549,
+    "nameCode": "STC",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 1976,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     }
+    }
+   },
+   "awayTeam": {
+    "name": "Botafogo-PB",
+    "slug": "botafogo-pb",
+    "shortName": "Botafogo-PB",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 15170,
+    "nameCode": "BOT",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 49196,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#020202",
+     "secondary": "#222226",
+     "text": "#222226"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "بوتافوغو-بي بي",
+      "ru": "Ботафого-ПБ"
+     },
+     "shortNameTranslation": {
+      "ar": "بوتافوغو-بي بي",
+      "ru": "Ботафого-ПБ"
+     }
+    }
+   },
+   "homeScore": {},
+   "awayScore": {},
+   "time": {},
+   "changes": {
+    "changeTimestamp": 0
+   },
+   "hasGlobalHighlights": false,
+   "crowdsourcingDataDisplayEnabled": false,
+   "id": 16969957,
+   "slug": "botafogo-pb-santa-cruz",
+   "startTimestamp": 1788730200,
+   "finalResultOnly": false,
+   "feedLocked": false,
+   "isEditor": false,
+   "eventFilters": {
+    "category": [
+     "club"
+    ],
+    "level": [
+     "pro"
+    ],
+    "gender": [
+     "M"
+    ]
+   }
+  },
+  {
+   "eventState": {},
+   "tournament": {
+    "name": "Brasileirão Série C, Group B",
+    "slug": "brasileirao-serie-c-group-b",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "uniqueTournament": {
+     "name": "Brasileirão Série C",
+     "slug": "brasileirao-serie-c",
+     "primaryColorHex": "#013027",
+     "secondaryColorHex": "#c5be02",
+     "category": {
+      "name": "Brazil",
+      "slug": "brazil",
+      "sport": {
+       "name": "Football",
+       "slug": "football",
+       "id": 1
+      },
+      "priority": 0,
+      "country": {
+       "alpha2": "BR",
+       "alpha3": "BRA",
+       "name": "Brazil",
+       "slug": "brazil"
+      },
+      "id": 13,
+      "flag": "brazil",
+      "alpha2": "BR",
+      "fieldTranslations": {
+       "nameTranslation": {
+        "ar": "البرازيل",
+        "ru": "Бразилия"
+       },
+       "shortNameTranslation": {}
+      }
+     },
+     "userCount": 20910,
+     "hasPerformanceGraphFeature": false,
+     "country": {},
+     "id": 1281,
+     "hasEventPlayerStatistics": false,
+     "displayInverseHomeAwayTeams": false,
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "دوري البرازيل الدرجة الثالثة",
+       "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+       "hi": "ब्रासीलरियो सीरी सी",
+       "ru": "Бразилейрао Серия C"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "priority": 0,
+    "isGroup": true,
+    "groupName": "Group B",
+    "groupSign": "B",
+    "isLive": false,
+    "id": 27214,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "الدوري البرازيلي، الدرجة C، المجموعة B",
+      "bn": "ব্রাসিলিরাও সেরি সি, গ্রুপ বি",
+      "hi": "ब्रासीलीराओ सीरी सी, ग्रुप बी",
+      "ru": "Бразилейрао Серия C, Группа B"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "season": {
+    "name": "Brasileiro Serie C 2026",
+    "year": "2026",
+    "editor": false,
+    "seasonCoverageInfo": {
+     "editorCoverageLevel": 1
+    },
+    "id": 90642
+   },
+   "roundInfo": {
+    "round": 2
+   },
+   "customId": "BOszgeb",
+   "status": {
+    "code": 0,
+    "description": "Not started",
+    "type": "notstarted"
+   },
+   "homeTeam": {
+    "name": "Maringá FC",
+    "slug": "maringa",
+    "shortName": "Maringá",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 11028,
+    "nameCode": "MA",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 135324,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#000000",
+     "secondary": "#00802d",
+     "text": "#00802d"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "مارينغا إف سي",
+      "ru": "ФК Маринга"
+     },
+     "shortNameTranslation": {
+      "ar": "مارينغا",
+      "ru": "Маринга"
+     }
+    }
+   },
+   "awayTeam": {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "shortName": "Santa Cruz",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 32549,
+    "nameCode": "STC",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 1976,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     }
+    }
+   },
+   "homeScore": {},
+   "awayScore": {},
+   "time": {},
+   "changes": {
+    "changeTimestamp": 0
+   },
+   "hasGlobalHighlights": false,
+   "crowdsourcingDataDisplayEnabled": false,
+   "id": 16969953,
+   "slug": "maringa-fc-santa-cruz",
+   "startTimestamp": 1789252200,
+   "finalResultOnly": false,
+   "feedLocked": false,
+   "isEditor": false
+  },
+  {
+   "eventState": {},
+   "tournament": {
+    "name": "Brasileirão Série C, Group B",
+    "slug": "brasileirao-serie-c-group-b",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "uniqueTournament": {
+     "name": "Brasileirão Série C",
+     "slug": "brasileirao-serie-c",
+     "primaryColorHex": "#013027",
+     "secondaryColorHex": "#c5be02",
+     "category": {
+      "name": "Brazil",
+      "slug": "brazil",
+      "sport": {
+       "name": "Football",
+       "slug": "football",
+       "id": 1
+      },
+      "priority": 0,
+      "country": {
+       "alpha2": "BR",
+       "alpha3": "BRA",
+       "name": "Brazil",
+       "slug": "brazil"
+      },
+      "id": 13,
+      "flag": "brazil",
+      "alpha2": "BR",
+      "fieldTranslations": {
+       "nameTranslation": {
+        "ar": "البرازيل",
+        "ru": "Бразилия"
+       },
+       "shortNameTranslation": {}
+      }
+     },
+     "userCount": 20910,
+     "hasPerformanceGraphFeature": false,
+     "country": {},
+     "id": 1281,
+     "hasEventPlayerStatistics": false,
+     "displayInverseHomeAwayTeams": false,
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "دوري البرازيل الدرجة الثالثة",
+       "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+       "hi": "ब्रासीलरियो सीरी सी",
+       "ru": "Бразилейрао Серия C"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "priority": 0,
+    "isGroup": true,
+    "groupName": "Group B",
+    "groupSign": "B",
+    "isLive": false,
+    "id": 27214,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "الدوري البرازيلي، الدرجة C، المجموعة B",
+      "bn": "ব্রাসিলিরাও সেরি সি, গ্রুপ বি",
+      "hi": "ब्रासीलीराओ सीरी सी, ग्रुप बी",
+      "ru": "Бразилейрао Серия C, Группа B"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "season": {
+    "name": "Brasileiro Serie C 2026",
+    "year": "2026",
+    "editor": false,
+    "seasonCoverageInfo": {
+     "editorCoverageLevel": 1
+    },
+    "id": 90642
+   },
+   "roundInfo": {
+    "round": 3
+   },
+   "customId": "BOsLKjc",
+   "status": {
+    "code": 0,
+    "description": "Not started",
+    "type": "notstarted"
+   },
+   "homeTeam": {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "shortName": "Santa Cruz",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 32549,
+    "nameCode": "STC",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 1976,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     }
+    }
+   },
+   "awayTeam": {
+    "name": "Floresta",
+    "slug": "floresta",
+    "shortName": "Floresta",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 6958,
+    "nameCode": "FLO",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 274286,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#004400",
+     "secondary": "#ffffff",
+     "text": "#ffffff"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "فلوريستا",
+      "ru": "Флореста"
+     },
+     "shortNameTranslation": {
+      "ar": "فلوريستا",
+      "ru": "Флореста"
+     }
+    }
+   },
+   "homeScore": {},
+   "awayScore": {},
+   "time": {},
+   "changes": {
+    "changeTimestamp": 0
+   },
+   "hasGlobalHighlights": false,
+   "crowdsourcingDataDisplayEnabled": false,
+   "id": 16969951,
+   "slug": "floresta-santa-cruz",
+   "startTimestamp": 1789930800,
+   "finalResultOnly": false,
+   "feedLocked": false,
+   "isEditor": false
+  },
+  {
+   "eventState": {},
+   "tournament": {
+    "name": "Brasileirão Série C, Group B",
+    "slug": "brasileirao-serie-c-group-b",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "uniqueTournament": {
+     "name": "Brasileirão Série C",
+     "slug": "brasileirao-serie-c",
+     "primaryColorHex": "#013027",
+     "secondaryColorHex": "#c5be02",
+     "category": {
+      "name": "Brazil",
+      "slug": "brazil",
+      "sport": {
+       "name": "Football",
+       "slug": "football",
+       "id": 1
+      },
+      "priority": 0,
+      "country": {
+       "alpha2": "BR",
+       "alpha3": "BRA",
+       "name": "Brazil",
+       "slug": "brazil"
+      },
+      "id": 13,
+      "flag": "brazil",
+      "alpha2": "BR",
+      "fieldTranslations": {
+       "nameTranslation": {
+        "ar": "البرازيل",
+        "ru": "Бразилия"
+       },
+       "shortNameTranslation": {}
+      }
+     },
+     "userCount": 20910,
+     "hasPerformanceGraphFeature": false,
+     "country": {},
+     "id": 1281,
+     "hasEventPlayerStatistics": false,
+     "displayInverseHomeAwayTeams": false,
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "دوري البرازيل الدرجة الثالثة",
+       "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+       "hi": "ब्रासीलरियो सीरी सी",
+       "ru": "Бразилейрао Серия C"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "priority": 0,
+    "isGroup": true,
+    "groupName": "Group B",
+    "groupSign": "B",
+    "isLive": false,
+    "id": 27214,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "الدوري البرازيلي، الدرجة C، المجموعة B",
+      "bn": "ব্রাসিলিরাও সেরি সি, গ্রুপ বি",
+      "hi": "ब्रासीलीराओ सीरी सी, ग्रुप बी",
+      "ru": "Бразилейрао Серия C, Группа B"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "season": {
+    "name": "Brasileiro Serie C 2026",
+    "year": "2026",
+    "editor": false,
+    "seasonCoverageInfo": {
+     "editorCoverageLevel": 1
+    },
+    "id": 90642
+   },
+   "roundInfo": {
+    "round": 4
+   },
+   "customId": "BOsLKjc",
+   "status": {
+    "code": 0,
+    "description": "Not started",
+    "type": "notstarted"
+   },
+   "homeTeam": {
+    "name": "Floresta",
+    "slug": "floresta",
+    "shortName": "Floresta",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 6958,
+    "nameCode": "FLO",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 274286,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#004400",
+     "secondary": "#ffffff",
+     "text": "#ffffff"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "فلوريستا",
+      "ru": "Флореста"
+     },
+     "shortNameTranslation": {
+      "ar": "فلوريستا",
+      "ru": "Флореста"
+     }
+    }
+   },
+   "awayTeam": {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "shortName": "Santa Cruz",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 32549,
+    "nameCode": "STC",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 1976,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     }
+    }
+   },
+   "homeScore": {},
+   "awayScore": {},
+   "time": {},
+   "changes": {
+    "changeTimestamp": 0
+   },
+   "hasGlobalHighlights": false,
+   "crowdsourcingDataDisplayEnabled": false,
+   "id": 16969954,
+   "slug": "floresta-santa-cruz",
+   "startTimestamp": 1790452800,
+   "finalResultOnly": false,
+   "feedLocked": false,
+   "isEditor": false
+  },
+  {
+   "eventState": {},
+   "tournament": {
+    "name": "Brasileirão Série C, Group B",
+    "slug": "brasileirao-serie-c-group-b",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "uniqueTournament": {
+     "name": "Brasileirão Série C",
+     "slug": "brasileirao-serie-c",
+     "primaryColorHex": "#013027",
+     "secondaryColorHex": "#c5be02",
+     "category": {
+      "name": "Brazil",
+      "slug": "brazil",
+      "sport": {
+       "name": "Football",
+       "slug": "football",
+       "id": 1
+      },
+      "priority": 0,
+      "country": {
+       "alpha2": "BR",
+       "alpha3": "BRA",
+       "name": "Brazil",
+       "slug": "brazil"
+      },
+      "id": 13,
+      "flag": "brazil",
+      "alpha2": "BR",
+      "fieldTranslations": {
+       "nameTranslation": {
+        "ar": "البرازيل",
+        "ru": "Бразилия"
+       },
+       "shortNameTranslation": {}
+      }
+     },
+     "userCount": 20910,
+     "hasPerformanceGraphFeature": false,
+     "country": {},
+     "id": 1281,
+     "hasEventPlayerStatistics": false,
+     "displayInverseHomeAwayTeams": false,
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "دوري البرازيل الدرجة الثالثة",
+       "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+       "hi": "ब्रासीलरियो सीरी सी",
+       "ru": "Бразилейрао Серия C"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "priority": 0,
+    "isGroup": true,
+    "groupName": "Group B",
+    "groupSign": "B",
+    "isLive": false,
+    "id": 27214,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "الدوري البرازيلي، الدرجة C، المجموعة B",
+      "bn": "ব্রাসিলিরাও সেরি সি, গ্রুপ বি",
+      "hi": "ब्रासीलीराओ सीरी सी, ग्रुप बी",
+      "ru": "Бразилейрао Серия C, Группа B"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "season": {
+    "name": "Brasileiro Serie C 2026",
+    "year": "2026",
+    "editor": false,
+    "seasonCoverageInfo": {
+     "editorCoverageLevel": 1
+    },
+    "id": 90642
+   },
+   "roundInfo": {
+    "round": 5
+   },
+   "customId": "BOszgeb",
+   "status": {
+    "code": 0,
+    "description": "Not started",
+    "type": "notstarted"
+   },
+   "homeTeam": {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "shortName": "Santa Cruz",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 32549,
+    "nameCode": "STC",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 1976,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     }
+    }
+   },
+   "awayTeam": {
+    "name": "Maringá FC",
+    "slug": "maringa",
+    "shortName": "Maringá",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 11028,
+    "nameCode": "MA",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 135324,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#000000",
+     "secondary": "#00802d",
+     "text": "#00802d"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "مارينغا إف سي",
+      "ru": "ФК Маринга"
+     },
+     "shortNameTranslation": {
+      "ar": "مارينغا",
+      "ru": "Маринга"
+     }
+    }
+   },
+   "homeScore": {},
+   "awayScore": {},
+   "time": {},
+   "changes": {
+    "changeTimestamp": 0
+   },
+   "hasGlobalHighlights": false,
+   "crowdsourcingDataDisplayEnabled": false,
+   "id": 16969968,
+   "slug": "maringa-fc-santa-cruz",
+   "startTimestamp": 1791057600,
+   "finalResultOnly": false,
+   "feedLocked": false,
+   "isEditor": false
+  },
+  {
+   "eventState": {},
+   "tournament": {
+    "name": "Brasileirão Série C, Group B",
+    "slug": "brasileirao-serie-c-group-b",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "uniqueTournament": {
+     "name": "Brasileirão Série C",
+     "slug": "brasileirao-serie-c",
+     "primaryColorHex": "#013027",
+     "secondaryColorHex": "#c5be02",
+     "category": {
+      "name": "Brazil",
+      "slug": "brazil",
+      "sport": {
+       "name": "Football",
+       "slug": "football",
+       "id": 1
+      },
+      "priority": 0,
+      "country": {
+       "alpha2": "BR",
+       "alpha3": "BRA",
+       "name": "Brazil",
+       "slug": "brazil"
+      },
+      "id": 13,
+      "flag": "brazil",
+      "alpha2": "BR",
+      "fieldTranslations": {
+       "nameTranslation": {
+        "ar": "البرازيل",
+        "ru": "Бразилия"
+       },
+       "shortNameTranslation": {}
+      }
+     },
+     "userCount": 20910,
+     "hasPerformanceGraphFeature": false,
+     "country": {},
+     "id": 1281,
+     "hasEventPlayerStatistics": false,
+     "displayInverseHomeAwayTeams": false,
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "دوري البرازيل الدرجة الثالثة",
+       "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+       "hi": "ब्रासीलरियो सीरी सी",
+       "ru": "Бразилейрао Серия C"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "priority": 0,
+    "isGroup": true,
+    "groupName": "Group B",
+    "groupSign": "B",
+    "isLive": false,
+    "id": 27214,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "الدوري البرازيلي، الدرجة C، المجموعة B",
+      "bn": "ব্রাসিলিরাও সেরি সি, গ্রুপ বি",
+      "hi": "ब्रासीलीराओ सीरी सी, ग्रुप बी",
+      "ru": "Бразилейрао Серия C, Группа B"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "season": {
+    "name": "Brasileiro Serie C 2026",
+    "year": "2026",
+    "editor": false,
+    "seasonCoverageInfo": {
+     "editorCoverageLevel": 1
+    },
+    "id": 90642
+   },
+   "roundInfo": {
+    "round": 6
+   },
+   "customId": "BOsWIu",
+   "status": {
+    "code": 0,
+    "description": "Not started",
+    "type": "notstarted"
+   },
+   "homeTeam": {
+    "name": "Botafogo-PB",
+    "slug": "botafogo-pb",
+    "shortName": "Botafogo-PB",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 15170,
+    "nameCode": "BOT",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 49196,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#020202",
+     "secondary": "#222226",
+     "text": "#222226"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "بوتافوغو-بي بي",
+      "ru": "Ботафого-ПБ"
+     },
+     "shortNameTranslation": {
+      "ar": "بوتافوغو-بي بي",
+      "ru": "Ботафого-ПБ"
+     }
+    }
+   },
+   "awayTeam": {
+    "name": "Santa Cruz",
+    "slug": "santa-cruz",
+    "shortName": "Santa Cruz",
+    "gender": "M",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "userCount": 32549,
+    "nameCode": "STC",
+    "disabled": false,
+    "national": false,
+    "type": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 1976,
+    "subTeams": [],
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     }
+    }
+   },
+   "homeScore": {},
+   "awayScore": {},
+   "time": {},
+   "changes": {
+    "changeTimestamp": 0
+   },
+   "hasGlobalHighlights": false,
+   "crowdsourcingDataDisplayEnabled": false,
+   "id": 16969961,
+   "slug": "botafogo-pb-santa-cruz",
+   "startTimestamp": 1791662400,
+   "finalResultOnly": false,
+   "feedLocked": false,
+   "isEditor": false
+  }
+ ],
+ "hasNextPage": false
+}

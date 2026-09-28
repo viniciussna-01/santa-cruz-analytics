@@ -1,0 +1,809 @@
+{
+ "results": [
+  {
+   "entity": {
+    "id": 1976,
+    "name": "Santa Cruz",
+    "nameCode": "STC",
+    "slug": "santa-cruz",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 32549,
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 25103.146,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 6968,
+    "name": "Blooming",
+    "nameCode": "BLO",
+    "slug": "blooming",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 23395,
+    "teamColors": {
+     "primary": "#0099ff",
+     "secondary": "#ff0000",
+     "text": "#ff0000"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BO",
+     "name": "Bolivia",
+     "slug": "bolivia"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "بلومينغ",
+      "ru": "Блуминг"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 21282.541,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 243490,
+    "name": "Deportes Santa Cruz",
+    "nameCode": "CRU",
+    "slug": "deportes-santa-cruz",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 4005,
+    "teamColors": {
+     "primary": "#ffffff",
+     "secondary": "#000099",
+     "text": "#000099"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "CL",
+     "name": "Chile",
+     "slug": "chile"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта Круз"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 8806.598,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 233253,
+    "name": "Santa Cruz U20",
+    "nameCode": "STC",
+    "slug": "santa-cruz-u20",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 1509,
+    "teamColors": {
+     "primary": "#ff0000",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز تحت 20",
+      "ru": "Санта Круз U20"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 5406.8105,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 65506,
+    "name": "Santa Cruz-RN",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-rn",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 1361,
+    "teamColors": {
+     "primary": "#ffffff",
+     "secondary": "#ff0000",
+     "text": "#ff0000"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز-آر إن",
+      "ru": "Санта Круз РН"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 5135.0093,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 327860,
+    "name": "CD Real Santa Cruz",
+    "nameCode": "RSC",
+    "slug": "cd-real-santa-cruz",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 1358,
+    "teamColors": {
+     "primary": "#ffffff",
+     "secondary": "#000000",
+     "text": "#000000"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BO",
+     "name": "Bolivia",
+     "slug": "bolivia"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "ريال سانتا كروز",
+      "ru": "Реал Санта Крус"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 5129.351,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 21991,
+    "name": "Santa Cruz-RS",
+    "nameCode": "SCR",
+    "slug": "fc-santa-cruz",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 1226,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز بي سي",
+      "ru": "Санта-Круз-РС"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 4873.8813,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 485408,
+    "name": "PFA Santa Cruz",
+    "nameCode": "PFA",
+    "slug": "pfa-antioquia-fc",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 1023,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "CR",
+     "name": "Costa Rica",
+     "slug": "costa-rica"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "بي إف إيه أنتيوقيا إف سي",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 4452.487,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 131424,
+    "name": "Santa Cruz Warriors",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-warriors",
+    "national": false,
+    "sport": {
+     "id": 2,
+     "slug": "basketball",
+     "name": "Basketball"
+    },
+    "userCount": 664,
+    "teamColors": {
+     "primary": "#fdb927",
+     "secondary": "#1d428a",
+     "text": "#1d428a"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "US",
+     "name": "USA",
+     "slug": "usa"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز واريورس",
+      "ru": "Санта Крус Уорриорс"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 3588.0913,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 520684,
+    "name": "Santa Cruz-AC U20",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-ac-u20",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 609,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز-إيه سي تحت 20",
+      "ru": "Санта-Крус-АК U20"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 3436.5098,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 262381,
+    "name": "Santa Cruz-RJ",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-rj",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 562,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز-ريو جانيرو",
+      "ru": "Санта-Круз-РЖ"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 3301.4663,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 335,
+    "name": "Roque Santa Cruz",
+    "slug": "roque-santa-cruz",
+    "userCount": 728,
+    "team": {
+     "id": 33001,
+     "name": "Nacional Asunción",
+     "nameCode": "NAC",
+     "slug": "nacional-asuncion",
+     "national": false,
+     "sport": {
+      "id": 1,
+      "slug": "football",
+      "name": "Football"
+     },
+     "userCount": 14949,
+     "teamColors": {
+      "primary": "#ffffff",
+      "secondary": "#ffffff",
+      "text": "#ffffff"
+     },
+     "gender": "M",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "ناسيونال",
+       "ru": "Насьональ Асунсьон"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "deceased": false,
+    "country": {
+     "alpha2": "PY",
+     "name": "Paraguay",
+     "slug": "paraguay"
+    },
+    "shortName": "R. S. Cruz",
+    "position": "F",
+    "jerseyNumber": "24",
+    "sofascoreId": "inye4c",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "ر. كروز",
+      "ru": "Р. Санта-Крус"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 3253.472,
+   "type": "player"
+  },
+  {
+   "entity": {
+    "id": 1110667,
+    "name": "Santa Cruz-AC",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-ac",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 414,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "س. سي",
+      "ru": "Санта-Крус-АК"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 2834.5017,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 1117033,
+    "name": "Gabriel Souza",
+    "slug": "gabriel-de-souza",
+    "userCount": 351,
+    "team": {
+     "id": 1976,
+     "name": "Santa Cruz",
+     "nameCode": "STC",
+     "slug": "santa-cruz",
+     "national": false,
+     "sport": {
+      "id": 1,
+      "slug": "football",
+      "name": "Football"
+     },
+     "userCount": 32549,
+     "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#000000",
+      "text": "#000000"
+     },
+     "gender": "M",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "سانتا كروز",
+       "ru": "Санта-Крус"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "deceased": false,
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "shortName": "G. Souza",
+    "position": "G",
+    "jerseyNumber": "25",
+    "sofascoreId": "8j3b5t",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "غ. سوزا",
+      "ru": "Г. Соуза"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 2260.761,
+   "type": "player"
+  },
+  {
+   "entity": {
+    "id": 927704,
+    "name": "Felipe Alves",
+    "slug": "felipe-alves",
+    "userCount": 336,
+    "team": {
+     "id": 1976,
+     "name": "Santa Cruz",
+     "nameCode": "STC",
+     "slug": "santa-cruz",
+     "national": false,
+     "sport": {
+      "id": 1,
+      "slug": "football",
+      "name": "Football"
+     },
+     "userCount": 32549,
+     "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#000000",
+      "text": "#000000"
+     },
+     "gender": "M",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "سانتا كروز",
+       "ru": "Санта-Крус"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "deceased": false,
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "shortName": "Felipe Alves",
+    "position": "G",
+    "jerseyNumber": "1",
+    "sofascoreId": "5fdpyt",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "ف. ألفيس",
+      "ru": "Ф. Алвеш"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 2212.067,
+   "type": "player"
+  },
+  {
+   "entity": {
+    "id": 1112904,
+    "name": "Atletico Santa Cruz",
+    "nameCode": "ASC",
+    "slug": "atletico-santa-cruz",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 232,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "ES",
+     "name": "Spain",
+     "slug": "spain"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "أتلتيكو سانتا كروز",
+      "ru": "Атлетико Санта-Крус"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 2123.8833,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 923951,
+    "name": "Everaldo",
+    "slug": "everaldo",
+    "userCount": 285,
+    "team": {
+     "id": 1976,
+     "name": "Santa Cruz",
+     "nameCode": "STC",
+     "slug": "santa-cruz",
+     "national": false,
+     "sport": {
+      "id": 1,
+      "slug": "football",
+      "name": "Football"
+     },
+     "userCount": 32549,
+     "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#000000",
+      "text": "#000000"
+     },
+     "gender": "M",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "سانتا كروز",
+       "ru": "Санта-Крус"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "deceased": false,
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "shortName": "Everaldo",
+    "position": "M",
+    "jerseyNumber": "8",
+    "sofascoreId": "iw885h",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "إيفيرالدو",
+      "ru": "Эверальдо"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 2037.8224,
+   "type": "player"
+  },
+  {
+   "entity": {
+    "id": 822513,
+    "name": "Andrey",
+    "slug": "andrey",
+    "userCount": 278,
+    "team": {
+     "id": 1976,
+     "name": "Santa Cruz",
+     "nameCode": "STC",
+     "slug": "santa-cruz",
+     "national": false,
+     "sport": {
+      "id": 1,
+      "slug": "football",
+      "name": "Football"
+     },
+     "userCount": 32549,
+     "teamColors": {
+      "primary": "#ff0000",
+      "secondary": "#000000",
+      "text": "#000000"
+     },
+     "gender": "M",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "سانتا كروز",
+       "ru": "Санта-Крус"
+      },
+      "shortNameTranslation": {}
+     }
+    },
+    "deceased": false,
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "shortName": "Andrey",
+    "position": "M",
+    "jerseyNumber": "5",
+    "sofascoreId": "ke9eyj",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "أندريه",
+      "ru": "Андрей"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 2012.7295,
+   "type": "player"
+  },
+  {
+   "entity": {
+    "id": 287750,
+    "name": "Santa Cruz U23",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-u23",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 200,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта-Крус"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 1972.6531,
+   "type": "team"
+  },
+  {
+   "entity": {
+    "id": 241916,
+    "name": "Santa Cruz U19",
+    "nameCode": "SCR",
+    "slug": "santa-cruz-u19",
+    "national": false,
+    "sport": {
+     "id": 1,
+     "slug": "football",
+     "name": "Football"
+    },
+    "userCount": 198,
+    "teamColors": {
+     "primary": "#374df5",
+     "secondary": "#374df5",
+     "text": "#ffffff"
+    },
+    "type": 0,
+    "gender": "M",
+    "country": {
+     "alpha2": "BR",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "سانتا كروز",
+      "ru": "Санта Круз U19"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "score": 1962.8143,
+   "type": "team"
+  }
+ ]
+}

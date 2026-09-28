@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/raw/*.json
+.pytest_cache/
+.streamlit/secrets.toml
+
+# data/database/santacruz.db é versionado DE PROPÓSITO — é o "seed" de dados
+# que faz o deploy (Streamlit Community Cloud) já abrir com dados reais.
+# Atualize com `python -m src.collectors.run` e dê commit no arquivo.

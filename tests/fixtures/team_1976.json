@@ -1,0 +1,316 @@
+{
+ "team": {
+  "name": "Santa Cruz",
+  "slug": "santa-cruz",
+  "shortName": "Santa Cruz",
+  "gender": "M",
+  "sport": {
+   "name": "Football",
+   "slug": "football",
+   "id": 1
+  },
+  "category": {
+   "name": "Brazil",
+   "slug": "brazil",
+   "sport": {
+    "name": "Football",
+    "slug": "football",
+    "id": 1
+   },
+   "priority": 0,
+   "country": {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "name": "Brazil",
+    "slug": "brazil"
+   },
+   "id": 13,
+   "flag": "brazil",
+   "alpha2": "BR",
+   "fieldTranslations": {
+    "nameTranslation": {
+     "ar": "البرازيل",
+     "ru": "Бразилия"
+    },
+    "shortNameTranslation": {}
+   },
+   "transferPeriod": [
+    {
+     "activeFrom": "06-01 00:00",
+     "activeTo": "09-18 00:00"
+    },
+    {
+     "activeFrom": "12-30 00:00",
+     "activeTo": "03-16 00:00"
+    }
+   ]
+  },
+  "tournament": {
+   "name": "Brasileirão Série C",
+   "slug": "brasileirao-serie-c",
+   "category": {
+    "name": "Brazil",
+    "slug": "brazil",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "priority": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 13,
+    "flag": "brazil",
+    "alpha2": "BR",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "البرازيل",
+      "ru": "Бразилия"
+     },
+     "shortNameTranslation": {}
+    },
+    "transferPeriod": [
+     {
+      "activeFrom": "06-01 00:00",
+      "activeTo": "09-18 00:00"
+     },
+     {
+      "activeFrom": "12-30 00:00",
+      "activeTo": "03-16 00:00"
+     }
+    ]
+   },
+   "uniqueTournament": {
+    "name": "Brasileirão Série C",
+    "slug": "brasileirao-serie-c",
+    "primaryColorHex": "#013027",
+    "secondaryColorHex": "#c5be02",
+    "category": {
+     "name": "Brazil",
+     "slug": "brazil",
+     "sport": {
+      "name": "Football",
+      "slug": "football",
+      "id": 1
+     },
+     "priority": 0,
+     "country": {
+      "alpha2": "BR",
+      "alpha3": "BRA",
+      "name": "Brazil",
+      "slug": "brazil"
+     },
+     "id": 13,
+     "flag": "brazil",
+     "alpha2": "BR",
+     "fieldTranslations": {
+      "nameTranslation": {
+       "ar": "البرازيل",
+       "ru": "Бразилия"
+      },
+      "shortNameTranslation": {}
+     },
+     "transferPeriod": [
+      {
+       "activeFrom": "06-01 00:00",
+       "activeTo": "09-18 00:00"
+      },
+      {
+       "activeFrom": "12-30 00:00",
+       "activeTo": "03-16 00:00"
+      }
+     ]
+    },
+    "userCount": 20910,
+    "hasPerformanceGraphFeature": false,
+    "country": {},
+    "id": 1281,
+    "displayInverseHomeAwayTeams": false,
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "دوري البرازيل الدرجة الثالثة",
+      "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+      "hi": "ब्रासीलरियो सीरी सी",
+      "ru": "Бразилейрао Серия C"
+     },
+     "shortNameTranslation": {}
+    }
+   },
+   "priority": 0,
+   "isLive": false,
+   "id": 27213,
+   "fieldTranslations": {
+    "nameTranslation": {
+     "ar": "الدوري البرازيلي، الدرجة C",
+     "bn": "ব্রাসিলিরাও সেরি সি",
+     "hi": "ब्रासीलीराओ सीरी सी",
+     "ru": "Бразилейрао Серия C"
+    },
+    "shortNameTranslation": {}
+   }
+  },
+  "primaryUniqueTournament": {
+   "name": "Brasileirão Série C",
+   "slug": "brasileirao-serie-c",
+   "primaryColorHex": "#013027",
+   "secondaryColorHex": "#c5be02",
+   "category": {
+    "name": "Brazil",
+    "slug": "brazil",
+    "sport": {
+     "name": "Football",
+     "slug": "football",
+     "id": 1
+    },
+    "priority": 0,
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 13,
+    "flag": "brazil",
+    "alpha2": "BR",
+    "fieldTranslations": {
+     "nameTranslation": {
+      "ar": "البرازيل",
+      "ru": "Бразилия"
+     },
+     "shortNameTranslation": {}
+    },
+    "transferPeriod": [
+     {
+      "activeFrom": "06-01 00:00",
+      "activeTo": "09-18 00:00"
+     },
+     {
+      "activeFrom": "12-30 00:00",
+      "activeTo": "03-16 00:00"
+     }
+    ]
+   },
+   "userCount": 20910,
+   "hasPerformanceGraphFeature": false,
+   "country": {},
+   "id": 1281,
+   "displayInverseHomeAwayTeams": false,
+   "fieldTranslations": {
+    "nameTranslation": {
+     "ar": "دوري البرازيل الدرجة الثالثة",
+     "bn": "ব্রাজিলিায়ারো সিরিজ সি",
+     "hi": "ब्रासीलरियो सीरी सी",
+     "ru": "Бразилейрао Серия C"
+    },
+    "shortNameTranslation": {}
+   }
+  },
+  "userCount": 32549,
+  "manager": {
+   "name": "Cristian Ziani Souza",
+   "slug": "cristian-ziani-souza",
+   "shortName": "C. Z. Souza",
+   "country": {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "name": "Brazil",
+    "slug": "brazil"
+   },
+   "id": 803058,
+   "fieldTranslations": {
+    "nameTranslation": {
+     "ar": "كريستيان زياني سوزا",
+     "ru": "Кристиан Зиани Соуза"
+    },
+    "shortNameTranslation": {
+     "ar": "ج. ز. سوزا",
+     "ru": "К. Соуза"
+    }
+   }
+  },
+  "venue": {
+   "city": {
+    "name": "Recife",
+    "country": {
+     "alpha2": "BR",
+     "alpha3": "BRA",
+     "name": "Brazil",
+     "slug": "brazil"
+    },
+    "id": 20224
+   },
+   "venueCoordinates": {
+    "latitude": -8.026809,
+    "longitude": -34.891197
+   },
+   "hidden": true,
+   "slug": "est-dio-do-arruda",
+   "name": "Estádio do Arruda",
+   "capacity": 60044,
+   "country": {
+    "alpha2": "BR",
+    "alpha3": "BRA",
+    "name": "Brazil",
+    "slug": "brazil"
+   },
+   "id": 11961,
+   "fieldTranslations": {
+    "nameTranslation": {
+     "ar": "ملعب أروذا",
+     "hi": "एस्टेडियो डो अरुडा",
+     "bn": "এস্টাডিও ডো আররুদা",
+     "ru": "Стадион do Arruda"
+    },
+    "shortNameTranslation": {}
+   },
+   "stadium": {
+    "name": "Estádio do Arruda",
+    "capacity": 60044
+   }
+  },
+  "nameCode": "STC",
+  "disabled": false,
+  "national": false,
+  "type": 0,
+  "country": {
+   "alpha2": "BR",
+   "alpha3": "BRA",
+   "name": "Brazil",
+   "slug": "brazil"
+  },
+  "id": 1976,
+  "fullName": "Santa Cruz",
+  "teamColors": {
+   "primary": "#ff0000",
+   "secondary": "#000000",
+   "text": "#000000"
+  },
+  "foundationDateTimestamp": -1764374400,
+  "fieldTranslations": {
+   "nameTranslation": {
+    "ar": "سانتا كروز",
+    "ru": "Санта-Крус"
+   },
+   "shortNameTranslation": {
+    "ar": "سانتا كروز",
+    "ru": "Санта-Крус"
+   }
+  },
+  "timeActive": []
+ },
+ "pregameForm": {
+  "position": 5,
+  "value": "28",
+  "form": [
+   "W",
+   "L",
+   "D",
+   "L",
+   "W"
+  ]
+ }
+}

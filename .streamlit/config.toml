@@ -1,0 +1,13 @@
+# Santa Cruz Data Analytics — paleta estrita do escudo (preto/branco/vermelho).
+# Fundo claro de propósito: garante que o vermelho nunca encoste direto no
+# preto (o branco sempre separa as duas cores, como no escudo do clube).
+[theme]
+base = "light"
+primaryColor = "#e30613"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f7f7f8"
+textColor = "#141414"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
